@@ -30,3 +30,7 @@ Com a encarregat/da del departament d’informàtica de la teva empresa tens la 
 
 ![alt text](Selecció_045.png)
 
+### Preu anual:
+
+![alt text](Selecció_046.png)
+
