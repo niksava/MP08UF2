@@ -47,3 +47,5 @@ Ara si anem a fitxers tindrem la nostra Unitat del Drive, i podrem crear una nov
 
 ![alt text](Selecció_021.png)
 
+![alt text](Selecció_022.png)
+
