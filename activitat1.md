@@ -36,16 +36,37 @@ Com a encarregat/da del departament d’informàtica de la teva empresa tens la 
 
 ## Creació de carpeta backup
 
-En aquesta carpeta guardarem les còpies de seguretat, per lo tant tots els arxius de l’empresa, sol tindrà accés l’administrador
+En aquesta carpeta guardarem les còpies de seguretat, per lo tant tots els arxius de l’empresa, sol tindrà accés l’administrador.
  
-Primer que res caldrà activar el nostre compte de Drive al Ubuntu 
-Per poder fer això anirem a paràmetres hi ha comptes en línia 
+Primer que res caldrà activar el nostre compte de Drive al Ubuntu. 
+Per poder fer això anirem a paràmetres hi ha comptes en línia .
 
 ![alt text](Selecció_020.png)
 
-Ara si anem a fitxers tindrem la nostra Unitat del Drive, i podrem crear una nova carpeta amb el nom de Backup
+Ara si anem a fitxers tindrem la nostra Unitat del Drive, i podrem crear una nova carpeta amb el nom de Backup.
 
 ![alt text](Selecció_021.png)
 
 ![alt text](Selecció_022.png)
 
+I dins posarem la copia de seguretat.
+
+![alt text](Selecció_023.png)
+
+## Carpeta compartida
+
+També farem una carpeta compartida amb els arxius compartits.
+
+![alt text](Selecció_024.png)
+
+Aquí podem editar els permisos del usuaris compartits en aquest cas està l’admin i un usuari de l’empresa que sol pot llegir.
+
+![alt text](Selecció_025.png)
+
+## Exemples d’ús de consultar un document per part de l’usuari/a
+
+Al drive de l’usuari li sortirà la carpeta compartida sol tindrà que anar a unitats compartides en mi i ja tindrà la carpeta extra.
+
+![alt text](Selecció_026.png)
+
+![alt text](Selecció_027.png)
