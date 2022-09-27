@@ -34,3 +34,12 @@ Com a encarregat/da del departament d’informàtica de la teva empresa tens la 
 
 ![alt text](Selecció_046.png)
 
+## Creació de carpeta backup
+
+En aquesta carpeta guardarem les còpies de seguretat, per lo tant tots els arxius de l’empresa, sol tindrà accés l’administrador
+ 
+Primer que res caldrà activar el nostre compte de Drive al Ubuntu 
+Per poder fer això anirem a paràmetres hi ha comptes en línia 
+
+![alt text](Selecció_020.png)
+
