@@ -43,3 +43,7 @@ Per poder fer això anirem a paràmetres hi ha comptes en línia
 
 ![alt text](Selecció_020.png)
 
+Ara si anem a fitxers tindrem la nostra Unitat del Drive, i podrem crear una nova carpeta amb el nom de Backup
+
+![alt text](Selecció_021.png)
+
