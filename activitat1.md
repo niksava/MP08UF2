@@ -61,12 +61,10 @@ També farem una carpeta compartida amb els arxius compartits.
 
 Aquí podem editar els permisos del usuaris compartits en aquest cas està l’admin i un usuari de l’empresa que sol pot llegir.
 
-![alt text](Selecció_025.png)
-
 ## Exemples d’ús de consultar un document per part de l’usuari/a
 
 Al drive de l’usuari li sortirà la carpeta compartida sol tindrà que anar a unitats compartides en mi i ja tindrà la carpeta extra.
 
-![alt text](Selecció_026.png)
+![alt text](Selecció_025.png)
 
-![alt text](Selecció_027.png)
+![alt text](Selecció_026.png)
